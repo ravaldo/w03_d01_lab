@@ -1,0 +1,30 @@
+
+body > header {
+	background-color: blue;
+	color: white;
+	padding: 20px;
+}
+
+body > header img {
+	float: right;
+	width: 100px;
+	height: 100px;
+	border-radius: 20%;
+}
+
+nav ul {
+	list-style: none;
+}
+
+
+nav a {
+	color: white;
+	text-decoration: none;
+}
+
+section > img {
+	width: 300px;
+	height: 200px;
+	object-fit: cover;
+}
+
